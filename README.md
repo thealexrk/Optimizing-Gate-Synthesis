@@ -1,5 +1,5 @@
 # Optimizing-Gate-Synthesis
-[Pending]
+Automating quantum state preparation and gate synthesis with machine learning methods.
 
 Check out the accompanying article here:
 
