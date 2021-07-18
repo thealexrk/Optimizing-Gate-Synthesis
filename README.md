@@ -1,7 +1,7 @@
 # Optimizing-Gate-Synthesis
 Automating quantum state preparation and gate synthesis with machine learning methods.
 
-Check out the accompanying article here:
+Check out the accompanying article here: https://thealexk.medium.com/synq-optimizing-gate-synthesis-950edd642aa1
 
 NB: This project is inspired by a tutorial by the following papers, the authors of which I owe a debt of gratitude for providing the code, data, and software I used:
 
